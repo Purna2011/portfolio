@@ -1,6 +1,6 @@
 # Data Analyst Portfolio CMS
 
-A full-stack portfolio + private admin dashboard built with **TanStack Start**, **React 19**, **Tailwind CSS v4**, and **Supabase** (via Lovable Cloud).
+A full-stack portfolio + private admin dashboard built with **TanStack Start**, **React 19**, **Tailwind CSS v4**, and **Supabase** .
 
 ## What is included
 
